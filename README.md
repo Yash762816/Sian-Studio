@@ -4,6 +4,13 @@ A photography portfolio UI featuring a fully interactive sliding sidebar — **b
 
 ![Project Preview](req_photo.jpg)
 
+---
+
+## 🚀 Live Demo
+
+> https://yash762816.github.io/Spotify-Clone/
+
+---
 
 ## 💡 What Makes This Special
 
