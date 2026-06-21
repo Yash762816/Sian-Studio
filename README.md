@@ -8,7 +8,7 @@ A photography portfolio UI featuring a fully interactive sliding sidebar — **b
 
 ## 🚀 Live Demo
 
-> https://yash762816.github.io/Spotify-Clone/
+> https://yash762816.github.io/Sian-Studio/
 
 ---
 
